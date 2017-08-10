@@ -1,3 +1,4 @@
+61个版本
 prinkTokens1:210             
 v1:238
 D*:151,56; 0.719048,0.266667 210             
@@ -316,101 +317,101 @@ deep learning:5,5;0.057471,0.057471
 RImp:
 deep learning(context)/D*:62.5%
 18个版本
-nanoxml_v1:72 198         
+nanoxml_v1:   
 f1:   
-D*:5,3;0.030488,0.018293                 
-deep learning: 5,2;0.030488,0.012195
+D*:164,99;                 
+deep learning: 165,66;
 RImp:
-deep learning(context)/D*:40%
+deep learning(context)/D*:40.2%
 f2:
-D*:14,9;0.085366,0.054878               
-deep learning:12,5;0.073171,0.030488
+D*:463,297;               
+deep learning:396,165;
 RImp:
-deep learning(context)/D*:35.7%
+deep learning(context)/D*:35.6%
 f3:
-D*:14,9;0.085366,0.054878              
-deep learning:13,6;0.079268,0.036585
+D*:462,297;              
+deep learning:429,198;
 RImp:
 deep learning(context)/D*:42.9%
 
-nanoxml_v2:         
+nanoxml_v2:     
 f1:   
-D*:4,3;0.022599,0.016949             
-deep learning: 5,4;0.028249,0.022599
+D*:128,96;             
+deep learning: 160,95;
 RImp:
-deep learning(context)/D*:100%
+deep learning(context)/D*:74.2%
 f2:
-D*:5,2;0.028249,0.011299            
-deep learning:4,3;0.022599,0.016949
+D*:160,64;            
+deep learning:128,98;
 RImp:
-deep learning(context)/D*:60%
+deep learning(context)/D*:61.3%
 f3:
-D*:14,9;0.079096,0.050847            
-deep learning:16,7;0.090395,0.039548
+D*:448,288;            
+deep learning:512,223;
 RImp:
-deep learning(context)/D*:50
+deep learning(context)/D*:49.8%
 
-nanoxml_v3:        128 57 88 23
+nanoxml_v3:        
 f1:   
-D*:17,1;0.261538,0.015385          
-deep learning: 6,2;0.092308,0.030769
+D*:2210,130;          
+deep learning: 780,260;
 RImp:
 deep learning(context)/D*:11.8%
 f2:
-D*:1,1;0.014925,0.014925            
-deep learning:3,1;0.044776,0.014925
+D*:130,130;            
+deep learning:390,120;
 RImp:
-deep learning(context)/D*:100%
+deep learning(context)/D*:92.3%
 f3:
-D*:60,18;0.292683,0.087805          
-deep learning:38,11;0.185366,0.053659
+D*:7800,2340;          
+deep learning:4940,1440;
 RImp:
-deep learning(context)/D*:18.3%
+deep learning(context)/D*:18.5%
 f4:   
-D*:8,3;0.033613,0.012605          
-deep learning: 11,1;0.046218,0.004202
+D*:1040,390;          
+deep learning: 1430,130;
 RImp:
 deep learning(context)/D*:12.5%
-f5:
-D*:24,22;0.100000,0.091667       
-deep learning:12,2;0.050000,0.008333
+f5:   
+D*:3120,2860;       
+deep learning:1560,260;
 RImp:
 deep learning(context)/D*:8.3%
 f6:
-D*:4,3;0.019324,0.014493          
-deep learning:1,1;0.004831,0.004831
+D*:520,390;          
+deep learning:130,127;
 RImp:
-deep learning(context)/D*:25%
+deep learning(context)/D*:24.4%
 f7:
-D*:14,9;0.067633,0.043478         
-deep learning:17,5;0.082126,0.024155
+D*:1820,1170;         
+deep learning:2210,653;
 RImp:
-deep learning(context)/D*:35.7%
+deep learning(context)/D*:35.9%
 
 nanoxml_v5:   
-f1:58
-D*:17,5;0.293103,0.086207         
-deep learning:13,6;0.224138,0.103448
+f1:
+D*:2584,760;         
+deep learning:1976,912;
 RImp:
 deep learning(context)/D*:35.3%
-f2:57
-D*:28,14;0.491228,0.245614         
-deep learning:18,7;0.315789,0.122807
+f2:
+D*:4255,2128;         
+deep learning:2736,1064;
 RImp:
-deep learning(context)/D*:25%
-f3:215
-D*:4,3;0.018519,0.013889           
-deep learning:4,3;0.018519,0.013889
+deep learning(context)/D*:25.01%
+f3:
+D*:609,456;           
+deep learning:608,456;
 RImp:
-deep learning(context)/D*:75%
-f4:214
-D*:13,8;0.060465,0.037209         
-deep learning:9,4;0.041860,0.018605
+deep learning(context)/D*:74.9%
+f4:
+D*:1976,1216;         
+deep learning:1368,608;
 RImp:
 deep learning(context)/D*:30.8%
-f5:30
-D*:14,2;0.451613,0.064516        
-deep learning:11,2;0.354839,0.064516
+f5:
+D*:2128,304;        
+deep learning:1672,304;
 RImp:
 deep learning(context)/D*:14.3%
 
