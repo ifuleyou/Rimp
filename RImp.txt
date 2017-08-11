@@ -1,12 +1,13 @@
 //instruction
-
 Program name:           
 version number:
 D*(Dstar): 
     number of statements that need to be examined to find the fault, 
     number of statements that need to be examined to find the fault with context, 
     the percentage of executable statements to be examined before finding the actual faulty statement,
-    the percentage of executable statements to be examined before finding the actual faulty statement with context       deep learning:
+    the percentage of executable statements to be examined before finding the actual faulty statement with context     
+  
+deep learning:
     number of statements that need to be examined to find the fault, 
     number of statements that need to be examined to find the fault with context, 
     the percentage of executable statements to be examined before finding the actual faulty statement,
